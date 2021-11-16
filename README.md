@@ -1,4 +1,4 @@
-# mentor_2021
+# mentor_2nd_sem
 
 mentor project at DGAP MIPT, 2nd semester
 
